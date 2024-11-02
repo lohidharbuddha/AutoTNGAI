@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automation Testing with AI/AutoTNGAI</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        header, footer { background-color: #f8f8f8; padding: 20px; text-align: center; }
+        .hero { text-align: center; margin: 50px 0; }
+        .features, .testimonials { margin: 20px 0; }
+        .cta { color: white; background-color: #007bff; padding: 10px 20px; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Automation Testing with AI/AutoTNGAI</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="features.html">Features</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <div class="hero">
+        <img src="hero-image.jpg" alt="Hero Image">
+        <h2>Revolutionize Your Automation Testing with AI</h2>
+        <p>Streamline your testing process with cutting-edge AI technology.</p>
+        <a href="features.html" class="cta">Get Started Now</a>
+    </div>
+    <div class="features">
+        <h3>Key Features</h3>
+        <ul>
+            <li>AI-Driven Test Generation</li>
+            <li>Seamless Integration</li>
+            <li>Real-time Reporting</li>
+        </ul>
+    </div>
+    <div class="testimonials">
+        <h3>Testimonials</h3>
+        <blockquote>"AutoTNGAI transformed our testing process!" - User 1</blockquote>
+        <blockquote>"Incredible efficiency and accuracy." - User 2</blockquote>
+    </div>
+    <footer>
+        <p>Contact us at: example@example.com</p>
+        <p>Follow us on <a href="#">Facebook</a>, <a href="#">Twitter</a>, <a href="#">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
